@@ -1,0 +1,22 @@
+.navbar{
+  top:0;
+  width: 100vw;
+  position: fixed;
+  background-color: #FFFFFF;
+  padding: 10px 0px;
+}
+
+#menu {
+  display: flex;
+  list-style: none;
+  float: right;
+  margin-right: 45px;
+}
+
+.list-item{
+  padding: 0px 10px 0px 0px;
+}
+
+a {
+  text-decoration: none;
+}

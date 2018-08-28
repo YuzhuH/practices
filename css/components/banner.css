@@ -1,0 +1,13 @@
+.banner {
+  background-size: cover !important;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+}
+
+.banner-content{
+  border-style: dashed;
+  border-color: red;
+  padding: 10px 50px;
+}
